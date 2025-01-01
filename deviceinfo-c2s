@@ -41,3 +41,7 @@ deviceinfo_rootfs_image_sector_size="4096"
 
 deviceinfo_ramdisk_compression="lz4"
 ##########
+# DTBO image
+
+deviceinfo_prebuilt_dtbo="dtboimgs/dtbo-c2s.img"
+##########
